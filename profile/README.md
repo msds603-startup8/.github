@@ -11,9 +11,5 @@ Aimed at making the interview preparation process more accessible while enhancin
 
 - RehearsAI-server
   - Codes for server
-- RehearsAI-client
-  - Codes for client
 - Summarization_and_RAG
   - Codes for RAG
-- poc1
-  - The features of our initial product
