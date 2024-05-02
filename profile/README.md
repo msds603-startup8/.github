@@ -7,8 +7,8 @@ We are the team for RehearsAI. We are a cross-functional team of computer scienc
 To provide real-time, highly personalized interview preparation and assessment tools for entry-level job seekers and businesses.
 Aimed at making the interview preparation process more accessible while enhancing hiring efficiency.
 
-# : speech_balloon: Demo
-https://github.com/msds603-startup8/.github/assets/36908657/27355d80-c408-4f69-90bf-6261c7ae22c0
+# :speech_balloon: Demo
+https://github.com/msds603-startup8/.github/assets/36908657/da9254ff-93cd-4e2e-883c-534f3d0c8deb
 
 # :bookmark_tabs: Repositories
 
