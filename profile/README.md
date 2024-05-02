@@ -7,6 +7,8 @@ We are the team for RehearsAI. We are a cross-functional team of computer scienc
 To provide real-time, highly personalized interview preparation and assessment tools for entry-level job seekers and businesses.
 Aimed at making the interview preparation process more accessible while enhancing hiring efficiency.
 
+# : robot: Demo
+
 # :bookmark_tabs: Repositories
 
 - RehearsAI-server
